@@ -11,4 +11,5 @@ GAMA and QGIS documentation in order to learn more about these two tools
 
 
 GAMA Platform: https://gama-platform.github.io/
+
 QGIS: https://qgis.org/es/site/about/index.html
