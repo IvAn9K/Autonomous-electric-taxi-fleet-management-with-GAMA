@@ -8,3 +8,7 @@ The roads and node shapefiles has been done with QGIS, while the code itself has
 To use this code, you need the GAMA tool and add there the model presented in this project. You will also need to add the includes folder since it has all the files
 regarding nodes and roads, in order to generate the map of Aranjuez. Then, inside the model, you can modify everything freely or just used the proposed model. See both
 GAMA and QGIS documentation in order to learn more about these two tools
+
+
+GAMA Platform: https://gama-platform.github.io/
+QGIS: https://qgis.org/es/site/about/index.html
